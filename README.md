@@ -6,10 +6,10 @@ This repository contains a comparative analysis of supervised and unsupervised c
 
 ## Table of Contents
 - [Google Earth Engine Script](https://code.earthengine.google.com/5b6b31fa87484c26b6a0e9b93ffc5fa9)
-- [Supervised classification map](https://https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/supervised_boalkhali.png)
-- [Unsupervised classification map](https://https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/unsupervised_boalkhali.png)
-- [Report comparing Supervised and Unsupervised classification methods](https://https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/supervised_vs_unsupervised2.pdf)
-- [Code link](https://https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/assignment-8.js)
+- [Supervised classification map](https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/supervised_boalkhali.png)
+- [Unsupervised classification map](https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/unsupervised_boalkhali.png)
+- [Report comparing Supervised and Unsupervised classification methods](https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/supervised_vs_unsupervised2.pdf)
+- [Code link](https://github.com/Ashik-Abdullah-Chowdhury/Cohort-2_Assignment-8/blob/main/assignment-8.js)
 
 
 ## Features
